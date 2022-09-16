@@ -2,7 +2,7 @@
 
 ## About me
 
-Hello! My name is Thiago Borges and I'm currently a Front-end Developer located in Brazil. I work with JavaScript and React for almost 3.5 years now.  
+Hello! My name is Thiago Borges and I'm currently a Front-end Developer located in Brazil. I work with JavaScript and React for almost 4 years now.  
 
 I'm interested in front-end web development, creative coding, digital art, interactive art and game development.
 
