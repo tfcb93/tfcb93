@@ -1,4 +1,4 @@
-# I'm Thiago! Nice to meet you :D
+# I'm Thiago! Nice to meet you
 
 ## About me
 
