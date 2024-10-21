@@ -1,4 +1,6 @@
-Hello! My name is Thiago Borges and I'm a Software Developer located in Brazil.  
+### Hello! My name is Thiago Borges
+
+I'm a Software Developer located in Brazil.  
 
 I'm interested in front-end web development, creative coding and game development.
 
